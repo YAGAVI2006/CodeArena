@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-**CodeArena+** is an AI-powered real-time coding platform designed to help students enhance their programming skills through practice, competition, and intelligent guidance.
+**CodeArena** is an AI-powered real-time coding platform designed to help students enhance their programming skills through practice, competition, and intelligent guidance.
 
 It provides an interactive environment where users can write, execute, and analyze code, participate in live coding battles, and track their performance through analytics.
 
